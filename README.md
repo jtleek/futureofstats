@@ -35,6 +35,6 @@ and Rafa Irizarry.
 * We will need sampling strategies that are scalable and deal with n.i.i.d. data; the most important issue is interference
 
 ### The Future of Statistics and Data Science by Hilary Mason
-* The future of statistics will be statistics done by people without statistics degrees 
-* To survive in industry, statisticians need to know software development in teams and how to engineer data products
+* The future of statistics will be statistics done by everyone - people with statistics degrees and people without statistics degrees 
+* To thrive in industry, statisticians need to augment their stats knowledge with knowledge about software development in teams and how to engineer data products
 * You often run into problems you’d like to solve in a year - but you only get a week - statisticians will need to be problem solvers.
