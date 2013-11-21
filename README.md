@@ -1,5 +1,4 @@
-The Simply Statistics 
-Unconference on the Future of Statistics 
+The Simply Statistics Unconference on the Future of Statistics 
 ====================================
 
 Simply Statistics http://simplystatistics.org/ held an unconference on the future of statistics that was 
