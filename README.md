@@ -32,7 +32,7 @@ and Rafa Irizarry.
 ### The Future of Statistics in the Social Sciences by Sinan Aral
 * The future of statistics in social sciences is designed experiments and causal inference
 * The data we will observe will not be i.i.d. - neither are the data we had previously
-* We will need sampling strategies that are scalable and deal with n.i.i.d. data; the most important issue is interference
+* We will need sampling strategies that are scalable and deal with n.i.i.d. data; ane exmaple is the important issue of interference
 
 ### The Future of Statistics and Data Science by Hilary Mason
 * The future of statistics will be statistics done by everyone - people with statistics degrees and people without statistics degrees 
