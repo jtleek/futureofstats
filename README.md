@@ -12,7 +12,7 @@ and Rafa Irizarry.
 ### The Future of Statistical Software by Hadley Wickham 
 * The future of statistical software development will be on Github.
 * We will move from static (PDF, LaTeX) to Web (R markdown, HTML) statistical documents.
-* It is imporatnt to balance ease of use (R) and computational speed (Julia, C++) in statistical software.
+* It is important to balance ease of use (R) and computational speed (Julia, C++) in statistical software.
 
 ### The Future of Statistical Methods by Daniela Witten
 * The future of statistical methods is renewed interest in inference.
