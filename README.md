@@ -27,7 +27,7 @@ and Rafa Irizarry.
 ### The Future of Statistics in Biology by Hongkai Ji
 * The future of statistics in biology will be determined by selection pressure of real problems
 * There will be two equally important roles of statisticians: as safeguards and engines of discovery
-* The future invovles reanalysis of large public data sets to create new biological discoveries
+* The future involves reanalysis of large public data sets to create new biological discoveries
 
 ### The Future of Statistics in the Social Sciences by Sinan Aral
 * The future of statistics in social sciences is designed experiments and causal inference
